@@ -1,0 +1,57 @@
+/* Importing Google Fonts */
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: linear-gradient(135deg, #ffafbd, #ffc3a0);
+    font-family: 'Indie Flower', cursive;
+}
+
+.container {
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 4rem;
+    color: #333;
+    font-family: 'Lobster', cursive;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    margin-bottom: 30px;
+}
+
+.dice {
+    display: inline-block;
+    margin: 20px;
+}
+
+p {
+    font-size: 1em;
+    color: #444;
+    font-weight:bold;
+    text-transform: capitalize;
+    font-family:"indie Flower", cursive;
+    
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
+    border-radius: 20px;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+/* Footer styling */
+footer {
+    margin-top: 50px;
+    padding: 30px;
+    background: #333;
+    color: #fff;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
