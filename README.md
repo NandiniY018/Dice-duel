@@ -30,11 +30,11 @@ dice-duel/
 
  1. Clone repository
   ```bash
-  git clone https://github.com/<your-username>/dice-duel.git
+  git clone https://github.com/NandiniY018/Dice-duel.git
   cd dice-duel
 2. Run project
   Just open index.html in your browser.
-  (If using VS Code, right-click → “Open with Live Server”)
+  
 
  How to Play
   - Click the Roll  button (or press R)
